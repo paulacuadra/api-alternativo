@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "nombre": "City",
+        "lugar": "New York",
+        "autor": "Juan Perez",
+        "Fecha": 2019
+    },
+    {
+        "id": 1,
+        "nombre": " SYDNEY HARBOUR BRIDGE",
+        "lugar": "Sydney",
+        "autor": "Emma Ferrari",
+        "Fecha": 2018
+    },
+    {
+        "id": 2,
+        "nombre": "Dog",
+        "lugar": "Madrid",
+        "autor": "Maria Diaz",
+        "Fecha": 2008
+    },
+    {
+        "id": 3,
+        "nombre": "Paisaje nevado",
+        "lugar": "Bariloche",
+        "autor": "Guillermo Santos",
+        "Fecha": 2015
+    },
+    {
+        "id": 4,
+        "nombre": "Montevideo",
+        "lugar": "Montevideo",
+        "autor": "Juan Perez",
+        "Fecha": 2018
+    }, 
+    {
+        "id": 5,
+        "nombre": "Mar",
+        "lugar": "Barcelona",
+        "autor": "Maria Diaz",
+        "Fecha": 2012
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Pedro",
+        "apellido": "Gonzalez",
+        "email": "pedroG.gonzalez@jap.com"
+    },
+    {
+        "nombre": "Pilar",
+        "apellido": "Martinez",
+        "email": "pilar_martinez1@jap.com"
+    },
+    {
+        "nombre": "Martina",
+        "apellido": "Nardone",
+        "email": "martina.nardone@jap.com"
+    }
+]

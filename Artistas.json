@@ -1,0 +1,25 @@
+[{
+    "nombre": "Juan",
+    "apellido": "Perez",
+    "pais": "Uruguay",
+    "email": "juanperez@jap.com"
+},
+{
+    "nombre": "Maria",
+    "apellido": "Diaz",
+    "pais": "Argentina",
+    "email": "maria.diaz@jap.com"
+},
+{
+    "nombre": "Guillermo",
+    "apellido": "Santos",
+    "pais": "Espana",
+    "email": "guilermosantos@jap.com"
+},
+{
+    "nombre": "Emma",
+    "apellido": "Ferrari",
+    "pais": "Estados Unidos",
+    "email": "emma.watson@jap.com"
+}
+]
