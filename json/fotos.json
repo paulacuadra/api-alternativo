@@ -1,44 +1,50 @@
 [
     {
-        "id": 0,
+        "id": 1,
         "nombre": "City",
         "lugar": "New York",
         "autor": "Juan Perez",
-        "Fecha": 2019
-    },
-    {
-        "id": 1,
-        "nombre": " SYDNEY HARBOUR BRIDGE",
-        "lugar": "Sydney",
-        "autor": "Emma Ferrari",
-        "Fecha": 2018
+        "Fecha": 2019,
+        "imgSrc": "img/newyork.jpg"
     },
     {
         "id": 2,
-        "nombre": "Dog",
-        "lugar": "Madrid",
-        "autor": "Maria Diaz",
-        "Fecha": 2008
+        "nombre": " SYDNEY HARBOUR BRIDGE",
+        "lugar": "Sydney",
+        "autor": "Emma Ferrari",
+        "Fecha": 2018,
+        "imgSrc": "img/puente.jpg"
     },
     {
         "id": 3,
-        "nombre": "Paisaje nevado",
-        "lugar": "Bariloche",
-        "autor": "Guillermo Santos",
-        "Fecha": 2015
+        "nombre": "Dog",
+        "lugar": "Madrid",
+        "autor": "Maria Diaz",
+        "Fecha": 2008,
+        "imgSrc": "img/dog.jpg"
     },
     {
         "id": 4,
+        "nombre": "Paisaje nevado",
+        "lugar": "Bariloche",
+        "autor": "Guillermo Santos",
+        "Fecha": 2015,
+        "imgSrc": "img/bariloche.jpg"
+    },
+    {
+        "id": 5,
         "nombre": "Montevideo",
         "lugar": "Montevideo",
         "autor": "Juan Perez",
-        "Fecha": 2018
+        "Fecha": 2018,
+        "imgSrc": "img/montevideo.jpg"
     }, 
     {
-        "id": 5,
-        "nombre": "Mar",
-        "lugar": "Barcelona",
+        "id": 6,
+        "nombre": "Remo",
+        "lugar": "Canada",
         "autor": "Maria Diaz",
-        "Fecha": 2012
+        "Fecha": 2012,
+        "imgSrc": "img/canada.jpg"
     }
 ]
